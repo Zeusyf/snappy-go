@@ -1,1 +1,1 @@
-module github.com/omegasuite/snappy-go
+module github.com/zeusyf/snappy-go
